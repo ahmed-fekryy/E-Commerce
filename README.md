@@ -1,2 +1,0 @@
-"# Talabat-Solution" 
-"# E-Commerce" 
