@@ -1,0 +1,90 @@
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\abdel\Desktop\Web Api Project\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\abdel\Desktop\Web Api Project 01\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\abdel\Desktop\Web Api Project 03\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\abdel\Desktop\Web Api Project 04\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\abdel\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.deps.json
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.AssemblyReference.cache
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfoInputs.cache
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.AssemblyInfo.cs
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.csproj.CopyComplete
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.dll
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\refint\Talabat.Repository.dll
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\Abdelrahman\Desktop\Web Api Project 06\Talabat.Solution\Talabat.Repository\obj\Debug\net6.0\ref\Talabat.Repository.dll
